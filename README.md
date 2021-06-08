@@ -1,6 +1,6 @@
 Created a photo viewer app ->
 
-deployed in the following
+deployed in the following link https://crucial-minutia-314407.web.app/
 
 to run it locally -
 
